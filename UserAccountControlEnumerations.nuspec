@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>UserAccountControlEnumerations</id>
+    <version>1.0.0</version>
+    <title>User Account Control Enumerations</title>
+    <authors>Rob Fenlon</authors>
+    <owners>Rob Fenlon</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A simple enumeration of the user account control flags for Windows user accounts</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>User Account Control Enumerations Active Directory Windows</tags>
+  </metadata>
+</package>
